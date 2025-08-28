@@ -12,6 +12,7 @@ Podrás listar modelos oficiales, consultar los que tienes instalados, desinstal
   pip3 install -r requeriments.txt
   
 ## 📖 Instrucciones
+ ```bash
 python3 IAConsoleV2.py -h
 
 
