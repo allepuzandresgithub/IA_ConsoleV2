@@ -1,0 +1,5 @@
+gpt4all
+bs4
+requests
+gpt4all[cuda]
+colorama
